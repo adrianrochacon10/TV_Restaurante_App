@@ -1,4 +1,4 @@
-package com.example.tv_restaurante_app.ui.theme
+package com.example.tv_restaurante_app.theme
 
 import androidx.compose.ui.graphics.Color
 
